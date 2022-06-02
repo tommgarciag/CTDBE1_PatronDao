@@ -39,6 +39,6 @@ public class Programa {
         pacienteService.guardarPaciente(rodolfo);
         pacienteService.guardarPaciente(tomas);
         pacienteService.buscarPacientePorId(1);
-        pacienteService.buscarPacientePorId(2);
+        pacienteService.buscarPacientePorId(5);
     }
 }

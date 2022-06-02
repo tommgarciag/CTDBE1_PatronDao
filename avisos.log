@@ -1,0 +1,60 @@
+[2022-06-01 20:29:17] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 1
+[2022-06-01 20:29:17] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 2
+[2022-06-01 20:42:23] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 1
+[2022-06-01 20:42:23] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 5
+[2022-06-01 21:08:55] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 1
+[2022-06-01 21:08:55] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 5
+[2022-06-01 21:21:46] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 3
+[2022-06-01 21:23:36] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 3
+[2022-06-01 21:23:40] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 3
+[2022-06-01 21:24:48] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 2
+[2022-06-01 21:26:35] [ INFO ] [PacienteDaoH2:56] Buscando el paciiente con ID: 1
+[2022-06-01 21:29:44] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:49:29] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:49:29] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:49:29] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 3
+[2022-06-01 21:50:05] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:05] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:05] [ WARN ] [PacienteDaoH2:109] Eliminando el paciente con ID: 1
+[2022-06-01 21:50:05] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 3
+[2022-06-01 21:50:24] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:24] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:24] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 3
+[2022-06-01 21:50:59] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:59] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:50:59] [ WARN ] [PacienteDaoH2:109] Eliminando el paciente con ID: 1
+[2022-06-01 21:50:59] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 3
+[2022-06-01 21:51:34] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:51:34] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 1
+[2022-06-01 21:51:34] [ WARN ] [PacienteDaoH2:109] Eliminando el paciente con ID: 1
+[2022-06-01 21:51:34] [ INFO ] [PacienteDaoH2:56] Buscando el paciente con ID: 3
+[2022-06-01 21:59:10] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 21:59:17] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 21:59:17] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 21:59:17] [ WARN ] [PacienteDaoH2:111] Eliminando el paciente con ID: 1
+[2022-06-01 21:59:17] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 21:59:17] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.
+[2022-06-01 22:02:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:02:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:02:02] [ WARN ] [PacienteDaoH2:111] Eliminando el paciente con ID: 1
+[2022-06-01 22:02:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:02:02] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.
+[2022-06-01 22:02:46] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:02:46] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:02:46] [ WARN ] [PacienteDaoH2:111] Eliminando el paciente con ID: 1
+[2022-06-01 22:02:46] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:02:46] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.
+[2022-06-01 22:03:27] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:03:27] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:03:27] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:03:27] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.
+[2022-06-01 22:04:10] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:04:10] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 1
+[2022-06-01 22:04:10] [ WARN ] [PacienteDaoH2:111] Eliminando el paciente con ID: 1
+[2022-06-01 22:04:10] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:04:10] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.
+[2022-06-01 22:05:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:05:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:05:02] [ WARN ] [PacienteDaoH2:111] Eliminando el paciente con ID: 3
+[2022-06-01 22:05:02] [ INFO ] [PacienteDaoH2:58] Buscando el paciente con ID: 3
+[2022-06-01 22:05:02] [ INFO ] [PacienteDaoH2:139] Buscando todos los pacientes.

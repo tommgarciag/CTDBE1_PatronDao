@@ -4,6 +4,7 @@ import dao.IDao;
 import model.Domicilio;
 
 import java.sql.*;
+import java.util.List;
 
 public class DomicilioDaoH2 implements IDao<Domicilio> {
     @Override
@@ -46,7 +47,6 @@ public class DomicilioDaoH2 implements IDao<Domicilio> {
         try {
             connection = getConnection();
             PreparedStatement ps = connection.prepareStatement("SELECT * FROM DOMICILIOS WHERE ID=?");
-
             ps.setInt(1,id);
 
             ResultSet rs = ps.executeQuery();
@@ -69,9 +69,37 @@ public class DomicilioDaoH2 implements IDao<Domicilio> {
             }
         }
 
-
-
         return domicilio;
+    }
+
+    @Override
+    public void eliminar(int id) {
+        Connection connection = null;
+
+
+        try {
+            connection = getConnection();
+            PreparedStatement ps = connection.prepareStatement("DELETE FROM DOMICILIOS WHERE ID=?");
+            ps.setInt(1,id);
+            ps.execute();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                connection.close();
+            } catch (SQLException ex) {
+                ex.printStackTrace();
+            }
+        }
+
+
+
+    }
+
+    @Override
+    public List<Domicilio> buscarTodos() {
+        return null;
     }
 
     private static Connection getConnection() throws ClassNotFoundException, SQLException {
